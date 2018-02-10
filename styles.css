@@ -8,10 +8,10 @@ html, body {
 }
 
 .nav {
-    display: flex;
+    display: none;
     flex-direction: row;
     justify-content: flex-end;
-    align-items: center;
+    align-items: left;
 
     padding-right: 20px;
 }
